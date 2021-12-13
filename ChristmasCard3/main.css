@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(10, 34, 33);
+    background-color: rgb(12, 5, 22);
     padding: 5%;
 }
 
@@ -9,9 +9,9 @@ body{
     height: 450px;
     border-style: solid;
     border-width: 7.5px;
-    border-color: rgb(134, 87, 87);    
+    border-color: rgb(131, 75, 117);    
     padding: 8px; 
-    background-color: rgb(179, 176, 115);   
+    background-color: rgb(228, 226, 143);   
 }
 
 #tree{
@@ -20,7 +20,7 @@ body{
 }
 
 #text{
-    color: rgb(160, 54, 54);
+    color: rgb(238, 67, 67);
     font-size: 45px;
     font-weight: 700;
     text-align: center;  
